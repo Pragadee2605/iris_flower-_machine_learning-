@@ -1,5 +1,6 @@
-**Irish Flower Classification Android App 🌸
-**
+**Irish Flower Classification Android App 🌸**
+
+
 This is my first Android application leveraging machine learning with TorchScript to classify Irish flowers. The app is designed to identify flower species from user-provided inputs using a trained machine learning model.
 
 **Features ✨**
